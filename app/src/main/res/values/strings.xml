@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlacePicker</string>
+    <string name="google_app_id">weighty-elf-126303</string>
+    <string name="google_geo_API_key">AIzaSyD0qsubq_vdo8PLePvkaJGRbZizJSQjR7U</string>
+</resources>
